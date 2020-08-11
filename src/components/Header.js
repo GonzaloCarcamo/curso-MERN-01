@@ -1,10 +1,10 @@
 import React from 'react';
 
-function Header() {
+function Header({titulo}) {
     return(
-        <h1 id='encabezado' className='encabezado'
+        <h1 className='encabezado'
         
-        >Tienda Virtual</h1>
+        >{ titulo }</h1>
     );
 }
 
