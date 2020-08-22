@@ -1,4 +1,4 @@
-Proyecto 01 - Básicos - Curso React 
+Proyecto 01 - Básicos - Curso React / Project 01 - Basics - React Course
 
 ### Partes del proyecto
 
@@ -16,9 +16,7 @@ Proyecto 01 - Básicos - Curso React
 12. Actualizar STATE
 13. Mostrando elementos del carrito
 14. Eliminando elementos del carrito
-
-
-Project 01 - Basics - React Course
+-----------------------------------
 ### Project parts
 
 1.  The structure of create-react-app
