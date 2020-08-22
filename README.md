@@ -18,6 +18,25 @@ Proyecto 01 - Básicos - Curso React
 14. Eliminando elementos del carrito
 
 
+Project 01 - Basics - React Course
+### Project parts
+
+1.  The structure of create-react-app
+2.  Creating our first component
+3.  Basics with JSX
+4.  Creating second component
+5.  What are props
+6.  Get started with STATE
+7.  How to display a collection in STATE
+8.  Events in react
+9.  Creating second STATE
+10. Creating function to add elements to STATE
+11. Adding items to cart
+12. Update STATE
+13. Displaying cart items
+14. Removing items from the cart
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
