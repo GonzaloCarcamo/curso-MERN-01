@@ -33,7 +33,7 @@ Proyecto 01 - Básicos - Curso React / Project 01 - Basics - React Course
 12. Update STATE
 13. Displaying cart items
 14. Removing items from the cart
-
+----------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
