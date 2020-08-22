@@ -1,3 +1,23 @@
+Proyecto 01 - Básicos - Curso React 
+
+### Partes del proyecto
+
+1.  La estructura de create-react-app
+2.  Creando nuestro primer componente
+3.  Básicos con JSX
+4.  Creando segundo componente
+5.  Qué son los props
+6.  Primeros pasos con STATE
+7.  Cómo mostrar una colección en del STATE
+8.  Eventos en react
+9.  Creando segundo STATE 
+10. Creando función para agregar elementos al STATE
+11. Agregando elementos al carrito 
+12. Actualizar STATE
+13. Mostrando elementos del carrito
+14. Eliminando elementos del carrito
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
